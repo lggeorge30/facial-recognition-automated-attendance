@@ -1,0 +1,11 @@
+numpy
+pandas
+opencv-python
+insightface==0.7.3
+onnxruntime
+scikit-learn
+matplotlib
+seaborn
+tqdm
+Pillow
+openpyxl
